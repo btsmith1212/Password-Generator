@@ -1,14 +1,15 @@
 // Assignment code here
 var characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789~`!@#$%^&*()_+=-?";
-var min = 8;
-var max = 128;
+
 // added character arrays
 function generatePassword() {
 var password = "";
 var passwordInput = "";
 var passwordLength = prompt("Password must be between 8 and 128 characters. Please select length.");
 passwordLength = parseInt(passwordLength);
-if (numbet < min && numbet > 128){
+var min = 8;
+var max = 128;
+if (numbet < min && numbet > max){
   alert("Password must be between 8 and 128 characters.");
   return "";
 }
