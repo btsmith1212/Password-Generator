@@ -21,6 +21,7 @@ Please refer to the LICENSE in the repo.
 Code Sources
 
 https://btsmith1212.github.io/Password-Generator/
+https://github.com/btsmith1212/Password-Generator.git
 
 
 Screenshot
