@@ -20,4 +20,9 @@ Please refer to the LICENSE in the repo.
 
 Code Sources
 
+https://btsmith1212.github.io/Password-Generator/
+
+
 Screenshot
+
+<img width="958" alt="Capture" src="https://github.com/btsmith1212/Password-Generator/assets/135077506/f15c0b0a-a9c1-4cc3-b1e3-6a3a082ac112">
