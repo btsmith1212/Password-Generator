@@ -6,6 +6,7 @@ Installation
 N/A
 
 Usage
+
 To use this website, click the generate password button and then click through the prompts for a randomly generated password using the selected criteria.
 
 Credits
